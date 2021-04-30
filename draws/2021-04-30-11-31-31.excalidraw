@@ -1,10 +1,1 @@
-{
-  "type": "excalidraw",
-  "version": 2,
-  "source": "https://logseq.com",
-  "elements": [],
-  "appState": {
-    "viewBackgroundColor": "#FFF",
-    "gridSize": null
-  }
-}
+{"type":"excalidraw","version":2,"source":"https://logseq.com","elements":[{"type":"text","version":12,"versionNonce":729407933,"isDeleted":false,"id":"hQTQDyreB4hfFFEPalR_n","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":120.5,"y":234,"strokeColor":"#000000","backgroundColor":"transparent","width":84,"height":25,"seed":1583242963,"groupIds":[],"strokeSharpness":"sharp","boundElementIds":[],"fontSize":20,"fontFamily":1,"text":"Pretty t","baseline":18,"textAlign":"left","verticalAlign":"top"},{"id":"RnJkbCsxqOIrCfS4ewbIH","type":"text","x":209.5,"y":231,"width":42,"height":25,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"sharp","seed":1241153245,"version":16,"versionNonce":333240531,"isDeleted":false,"boundElementIds":null,"text":"cool!","fontSize":20,"fontFamily":1,"textAlign":"left","verticalAlign":"top","baseline":18},{"id":"xZg69mezDw3qmMIdghIkv","type":"arrow","x":144.5,"y":195,"width":131,"height":13,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"round","seed":1201148381,"version":9,"versionNonce":1297464157,"isDeleted":false,"boundElementIds":null,"points":[[0,0],[131,13]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":"arrow"},{"id":"lfOoDJB5s1rUUGDpyBLWD","type":"draw","x":345.5,"y":101,"width":0,"height":0,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"round","seed":1070652307,"version":2,"versionNonce":116038429,"isDeleted":false,"boundElementIds":null,"points":[[0,0]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null}],"appState":{"gridSize":null,"viewBackgroundColor":"#FFF"}}

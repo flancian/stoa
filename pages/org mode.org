@@ -2,4 +2,3 @@
 
 ** Org mode has some advantages over [[markdown]], we all know -- but IMO it just looks unnecessarily busy/complex sometimes.
 ** [[draws/2021-04-30-11-31-31.excalidraw]]
-**
