@@ -1,0 +1,9 @@
+* Trying out logseq again, I'm excited -- it seems they made [[markdown]] mode work!
+* I wonder if they have vim keys too. That would be amazing, although probably harder to do in the browser than in an app.
+** Second level.
+*** Third level.
+**** Fourth level.
+** `what`
+* ```what```
+*
+* I guess one of the strengths and weaknesses of outliners is that they outline *everything*. As in, it's not clear to me right now how I could put logseq in a mode that lets me write full Markdown -- like I would need to, say, write a blog post.
